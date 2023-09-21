@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(){
+int var1=sc.nextint();
+int var2=sc,nextint();
+if(var1<var2);{
+printf("var2-var1)*2+var1);
+}else{
+printf("var2");
+}
+}
