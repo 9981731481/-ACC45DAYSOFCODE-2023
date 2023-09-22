@@ -1,0 +1,13 @@
+#include<stdio.h>
+  int main(){
+//start
+  int x=15; //battery low level of phone
+//now
+  if(x<=15) {
+    printf("yes");
+  }else{
+    printf("no");
+  }
+  return0;
+  
+  }
