@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main() {
+int t=4; //no of cars
+
+if(t=4){
+printf("only 1 car is required");
+
+}else if(t=2);{
+print("only 1 cars are requred");
+}else {
+printf("only 2 car are required");
+}
+return0;
+}
