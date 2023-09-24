@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main(){
+  ///coding is started
+  int x=1;
+ int y=10;
+
+if(y<10x){
+printf("accound is of not span");
+}else{
+printf("account is of span");
+}
+
+
+}
