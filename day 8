@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main(){
+int x,y;
+printf("enter bucket capicity in lit");
+printf("enter glycer capacity in lit");
+ scanf("%d%d,&x,&y);
+if(x=x+20){
+printf("invalide input");
+}else
+printf("bucket full");
+scanf("%d",%y>20);
+}
+return0;
