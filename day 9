@@ -1,0 +1,17 @@
+#include<stdio.h>
+  int main(){
+  int a=5; //renting
+  int b=12;// purchasing
+  int cooler;
+  switch(cooler){
+  case a<b:
+  printf("rent for 2 month");
+  break;
+  case :b=a:
+  printf("rent of one month");
+  break;
+}
+  
+  
+  
+  }
