@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+	// your code goes here
+	int N; //runs
+	int M;//overs
+	int total runs
+	printf("enter the maximum runs");
+	scanf(%d,&N);
+	
+	switch(total runs){
+	    case maximum run<100:
+	    printf("chef team cannot win the game");
+	    break;
+	    
+	    case maximum run<30:
+	    printf("chef team win the match");
+	    
+	    return0;
+	    
+	    
