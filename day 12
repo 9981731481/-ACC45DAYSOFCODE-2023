@@ -1,0 +1,14 @@
+	#include<stdio.h>
+int main(){
+	int t=8s;
+	int x= 3m/s; //mario's bullet moves 
+	int y= 12m/s; //goombo
+	int z;        //hitting time to goombo
+	
+	if(t>8s){
+	printf("fire the bullet after 4 seconds");
+	}elseif(t>10){
+	    printf("not fire the bullet after 4 second");
+return0;
+	}
+	
