@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+	// your code goes here
+	int A=1; //unit of power
+	int B=2; //in year
+	int X=3; //in gram
+	int Y=4;
+	int H;
+	int M;
+	M=X*Y;
+	H=A*B;
+	// condition is below
+	if(M<H){
+	    printf("No");
+	}else(M>H);{
+	    printf("Yes");
+	}
+	
+	return 0;
+}
