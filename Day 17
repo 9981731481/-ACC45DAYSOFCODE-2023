@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+  int n;
+  printf("enter the seat no");
+  scanf(%d,&n);
+  
+  switch(n)
+  case 6:
+  printf("lower double");
+  break;
+  case 28:
+  printf(" upper double");
+
+    return 0;
+}
