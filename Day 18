@@ -1,0 +1,20 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+  int A,B,points;
+  printf("enter the points of A");
+  scanf("%d",&A);
+  printf("enter the points of B");
+  scanf("%d",&B);
+  
+  switch(points)
+  case 6:
+  printf("person lose the match");
+  case 7:
+  printf("person win the match_and_game and")
+  
+
+    return 0;
+}
