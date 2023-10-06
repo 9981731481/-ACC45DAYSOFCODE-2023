@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    int P,Q;
+    printf("enter the value P");
+    scanf("%d",&P);
+    printf("enter the value Q");
+    scanf("%d",&Q);
+    
+    if(10<12){
+        printf("P gets a better rank");
+    }elseif(15<30);{
+        printf("Q gets a better rank");
+    }else{
+        printf("P and Q gets same rank")
+    }
+
+    return 0;
