@@ -1,0 +1,19 @@
+program online
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+ int x;//volume increase
+ int y;//volume decrease 
+ printf("enter the x");
+ scanf("%d",&x);
+ printf("enter the y");
+ scanf("%d",&y);
+ 
+ if(x=4){
+     printf("volume increse 50 to 52");
+      }else(y=2);{
+          printf(" volume increase from. 12 to 10");
+      }
+
+    return 0;
