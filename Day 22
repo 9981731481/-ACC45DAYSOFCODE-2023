@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    int x= 100;
+    int y= 3;
+    int z= 1;
+     
+     
+     if(y=3){
+         printf("for each correct answer");
+     }elseif(z=1);{
+         printf("for each wrong answer");
+     }else{
+         printf("for unattended question");
+     }
+    
+
+    return 0;
+}
