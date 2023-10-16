@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+ int alice=2;//rupees
+ int bob=3;//rupees
+ int n;//total rupees
+ n=alice+bob;
+ if(n=5){
+     printf("sufficient to buy subscribtion");
+ }else{
+     printf("no two peple can contribute to buy subscribtion");
+ }
+ 
+
+    return 0;
+
+int main() {
+
+}
