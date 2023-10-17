@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main(void) {
+	// your code goes here
+	return 0;
+}
+    int x=7; // total no of chocolates
+	int y=5; // have 5 chocolates
+	int chocolate;
+	printf("enter the no");
+	scanf("%d",&choc0late)
+	
+	switch(chocolate)
+	
+	case 5:
+	printf("cost is 10 rupees");
+	
+	case 10:
+	printf("%d",&chocolate);
+	
+	return 0;
